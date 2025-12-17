@@ -52,17 +52,17 @@ Experienced MERN Stack Developer with 3+ years building scalable web application
 
 ### 🔥 Streak Stats
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=FarhanAhmad&theme=tokyonight&hide_border=true&fire=DD2727" alt="GitHub Streak" />
+  <img src="https://streak-stats.demolab.com?user=farhan493495&theme=tokyonight&hide_border=true&fire=DD2727" alt="GitHub Streak" />
 </p>
 
 ### 📈 GitHub Stats
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=FarhanAhmad&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=farhan493495&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" alt="GitHub Stats" />
 </p>
 
 ### 💻 Most Used Languages
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=FarhanAhmad&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=farhan493495&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Top Languages" />
 </p>
 
 ---
@@ -71,23 +71,45 @@ Experienced MERN Stack Developer with 3+ years building scalable web application
 
 | Project | Description | Tech Stack | Live Demo |
 |---------|-------------|------------|-----------|
-| **AlLOGO Super App** | Multi-service platform for ride-hailing, delivery, and rentals | React, Node.js, MongoDB, Mapbox, Socket.io | [Live](https://allogo.app) |
-| **E-Commerce Pro** | Full-featured online store with admin dashboard & analytics | Next.js 14, TypeScript, Stripe, Prisma, Tailwind | [Live](https://shop.farhan.dev) |
-| **AuthFlow Pro** | Enterprise authentication system with MFA & SSO | NestJS, Redis, JWT, OAuth 2.0, Docker | [GitHub](https://github.com/FarhanAhmad/authflow) |
-| **DevHub API** | RESTful API for developer portfolio management | Express.js, PostgreSQL, Swagger, Jest | [Docs](https://api.farhan.dev) |
+| **AlLOGO Super App** | Multi-service platform for ride-hailing, delivery, and rentals | React, Node.js, MongoDB, Mapbox, Socket.io | [Live](https://allogo.vercel.app) |
+| **E-Commerce Pro** | Full-featured online store with admin dashboard & analytics | Next.js 14, TypeScript, Stripe, Prisma, Tailwind | [Live](https://shop-farhan493495.vercel.app) |
+| **AuthFlow Pro** | Enterprise authentication system with MFA & SSO | NestJS, Redis, JWT, OAuth 2.0, Docker | [GitHub](https://github.com/farhan493495/authflow) |
+| **Portfolio Website** | Personal portfolio showcasing projects and skills | Next.js, Framer Motion, Tailwind CSS | [Live](https://farhan493495.vercel.app) |
 
 ---
 
 ## 📈 Contribution Graph
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=FarhanAhmad&theme=react-dark&hide_border=true&area=true&custom_title=Contribution%20Activity" alt="Contribution Graph" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=farhan493495&theme=react-dark&hide_border=true&area=true&custom_title=Contribution%20Activity" alt="Contribution Graph" />
 </p>
 
 ---
 
 ## 🏆 GitHub Trophies
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=FarhanAhmad&theme=nord&no-frame=true&column=7&margin-w=15&margin-h=15" alt="GitHub Trophies" />
+  <img src="https://github-profile-trophy.vercel.app/?username=farhan493495&theme=nord&no-frame=true&column=7&margin-w=15&margin-h=15" alt="GitHub Trophies" />
+</p>
+
+---
+
+## 📊 Development Metrics
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=farhan493495&theme=nord_dark" width="100%" alt="Profile Details" />
+</p>
+
+<div align="center">
+  
+  ![Profile Views](https://komarev.com/ghpvc/?username=farhan493495&color=blue&style=flat-square)
+  
+</div>
+
+---
+
+## 🚀 Vercel Deployments
+<p align="center">
+  <a href="https://vercel.com/farhan493495" target="_blank">
+    <img src="https://img.shields.io/badge/Vercel_Deployments-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Vercel Deployments" />
+  </a>
 </p>
 
 ---
@@ -103,21 +125,21 @@ Experienced MERN Stack Developer with 3+ years building scalable web application
 ---
 
 ## 📫 Connect With Me
-<p align="left">
+<p align="center">
   <a href="https://linkedin.com/in/farhan-ahmad-dev" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
-  <a href="mailto:farhan@example.com">
+  <a href="mailto:farhan493495@example.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
   <a href="https://twitter.com/farhan_dev" target="_blank">
     <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter" />
   </a>
-  <a href="https://dev.to/farhan" target="_blank">
-    <img src="https://img.shields.io/badge/Dev.to-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white" alt="Dev.to" />
-  </a>
-  <a href="https://portfolio.farhan.dev" target="_blank">
+  <a href="https://farhan493495.vercel.app" target="_blank">
     <img src="https://img.shields.io/badge/Portfolio-4285F4?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Portfolio" />
+  </a>
+  <a href="https://github.com/farhan493495" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
   </a>
 </p>
 
@@ -132,16 +154,24 @@ Experienced MERN Stack Developer with 3+ years building scalable web application
 
 ---
 
-## 📊 Development Metrics
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=FarhanAhmad&theme=nord_dark" width="100%" alt="Profile Details" />
-</p>
+## 📌 Quick Stats
+<div align="center">
+  
+  ![Total Commits](https://img.shields.io/github/commit-activity/m/farhan493495?color=green&label=Monthly%20Commits&style=for-the-badge)
+  ![Repositories](https://img.shields.io/badge/Repositories-15+-blue?style=for-the-badge)
+  ![Open Source](https://img.shields.io/badge/Open%20Source-Contributor-success?style=for-the-badge)
+  
+</div>
 
 ---
 
 ## ✨ Quote of the Day
 > *"First, solve the problem. Then, write the code." – John Johnson*
 
+<p align="center">
+  <i>🚀 Building the future, one commit at a time</i>
+</p>
+
 <p align="right">
-  <i>Last Updated: <!--LAST_UPDATED:2024-01-15-->January 2024</i>
+  <i>Last Updated: January 2024</i>
 </p>
