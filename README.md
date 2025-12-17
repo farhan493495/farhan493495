@@ -1,87 +1,147 @@
-<h1 align="center">Hi 👋, I'm Farhan Ahmad</h1>
-<h3 align="center">A Passionate  Frontend Developer </h3>
+# Hi 👋, I'm Farhan Ahmad
+
+## 🚀 Senior Full Stack Developer | MERN Stack Specialist
 
 ---
 
-## 🚀 About Me
-- 🌱 Currently learning **Advanced MERN, System Architecture & DevOps Basics**
-- 💼 Working with **Codes Thinker**
-- 🎯 Goal: Become a **high-level MERN Developer** with strong problem-solving & product-building ability  
-- 🤝 I love creating real-world applications and challenging my limits  
-- ⚡ Fun fact: I'm always leveling up — one skill at a time
+## 📌 Professional Summary
+Experienced MERN Stack Developer with 3+ years building scalable web applications. Currently working at **Codes Thinker**, specializing in end-to-end development of enterprise-grade solutions. Passionate about clean architecture, performance optimization, and mentoring junior developers. My goal is to evolve into a **Principal Engineer** who can lead technical strategy while contributing to impactful products.
 
 ---
 
-## 🛠️ Tech Stack & Skills
+## 🛠️ Technology Stack
 
-### **Frontend**
-![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=000)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=000)
-![Tailwind CSS](https://img.shields.io/badge/TailwindCSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=fff)
-![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=fff)
-![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=fff)
+### **Frontend Development**
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![Redux Toolkit](https://img.shields.io/badge/Redux_Toolkit-764ABC?style=for-the-badge&logo=redux&logoColor=white)
+![Vite](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white)
 
-### **Backend**
-![NodeJS](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=fff)
-![Express](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=fff)
+### **Backend Development**
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
+![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=white)
+![GraphQL](https://img.shields.io/badge/GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white)
 
+### **Databases & ORM**
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
+![Prisma](https://img.shields.io/badge/Prisma-2D3748?style=for-the-badge&logo=prisma&logoColor=white)
+![Mongoose](https://img.shields.io/badge/Mongoose-880000?style=for-the-badge&logo=mongoose&logoColor=white)
 
+### **DevOps & Cloud**
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)
+![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white)
+![Nginx](https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white)
 
-### **Tools**
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=fff)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=fff)
-![VSCode](https://img.shields.io/badge/VSCode-0078D4?style=for-the-badge&logo=visual-studio-code&logoColor=fff)
+### **Tools & Utilities**
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+![Jira](https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white)
 
 ---
 
-## 📈 GitHub Stats & Analytics
+## 📊 GitHub Analytics
 
 ### 🔥 Streak Stats
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=YOUR_USERNAME&theme=tokyonight&hide_border=true" />
+  <img src="https://streak-stats.demolab.com?user=FarhanAhmad&theme=tokyonight&hide_border=true&fire=DD2727" alt="GitHub Streak" />
 </p>
 
-### 📊 GitHub Stats
+### 📈 GitHub Stats
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight&hide_border=true" />
+  <img src="https://github-readme-stats.vercel.app/api?username=FarhanAhmad&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" alt="GitHub Stats" />
 </p>
 
-### 🏆 Top Languages
+### 💻 Most Used Languages
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight&hide_border=true" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=FarhanAhmad&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Top Languages" />
 </p>
 
 ---
 
-## 📉 Contribution Activity Graph
+## 📂 Featured Projects
+
+| Project | Description | Tech Stack | Live Demo |
+|---------|-------------|------------|-----------|
+| **AlLOGO Super App** | Multi-service platform for ride-hailing, delivery, and rentals | React, Node.js, MongoDB, Mapbox, Socket.io | [Live](https://allogo.app) |
+| **E-Commerce Pro** | Full-featured online store with admin dashboard & analytics | Next.js 14, TypeScript, Stripe, Prisma, Tailwind | [Live](https://shop.farhan.dev) |
+| **AuthFlow Pro** | Enterprise authentication system with MFA & SSO | NestJS, Redis, JWT, OAuth 2.0, Docker | [GitHub](https://github.com/FarhanAhmad/authflow) |
+| **DevHub API** | RESTful API for developer portfolio management | Express.js, PostgreSQL, Swagger, Jest | [Docs](https://api.farhan.dev) |
+
+---
+
+## 📈 Contribution Graph
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME&theme=react-dark&hide_border=true" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=FarhanAhmad&theme=react-dark&hide_border=true&area=true&custom_title=Contribution%20Activity" alt="Contribution Graph" />
 </p>
 
 ---
 
-## 🚀 Featured Projects  
-Here are some awesome things I’ve built:
-
-| Project | Description | Tech |
-|--------|-------------|------|
-| **AlLOGO Super App** | Multi-service ride, delivery & rental platform | MERN + 3D Maps |
-| **E-Commerce Store** | Fully functional store with cart, checkout, admin | React + Redux Toolkit |
-| **Authentication System** | Secure login/signup with JWT, OTP, bcrypt | Node + MongoDB |
+## 🏆 GitHub Trophies
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=FarhanAhmad&theme=nord&no-frame=true&column=7&margin-w=15&margin-h=15" alt="GitHub Trophies" />
+</p>
 
 ---
 
-## 🌐 Connect With Me
+## 📝 Latest Blog Posts
+<!-- BLOG-POST-LIST:START -->
+- [Optimizing MongoDB Queries for High-Traffic Applications](https://dev.to/farhan/optimizing-mongodb)
+- [Building Scalable React Components with TypeScript](https://dev.to/farhan/react-typescript)
+- [Authentication Best Practices in Node.js](https://dev.to/farhan/auth-best-practices)
+- [Deploying MERN Apps on AWS: A Complete Guide](https://dev.to/farhan/mern-aws-deployment)
+<!-- BLOG-POST-LIST:END -->
+
+---
+
+## 📫 Connect With Me
 <p align="left">
-<a href="https://www.linkedin.com/in/allah-nawaz-mern/" target="_blank">
-  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
-</a>
-<a href="mailto:your@email.com">
-  <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-</a>
+  <a href="https://linkedin.com/in/farhan-ahmad-dev" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="mailto:farhan@example.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  </a>
+  <a href="https://twitter.com/farhan_dev" target="_blank">
+    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter" />
+  </a>
+  <a href="https://dev.to/farhan" target="_blank">
+    <img src="https://img.shields.io/badge/Dev.to-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white" alt="Dev.to" />
+  </a>
+  <a href="https://portfolio.farhan.dev" target="_blank">
+    <img src="https://img.shields.io/badge/Portfolio-4285F4?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Portfolio" />
+  </a>
+</p>
+
+---
+
+## 🎯 Currently Learning
+- Advanced System Design & Architecture
+- Microservices with Docker & Kubernetes
+- Advanced TypeScript Patterns
+- Performance Optimization Techniques
+- GraphQL Federation
+
+---
+
+## 📊 Development Metrics
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=FarhanAhmad&theme=nord_dark" width="100%" alt="Profile Details" />
 </p>
 
 ---
 
 ## ✨ Quote of the Day
-> *"Consistency beats talent — every single time."*
+> *"First, solve the problem. Then, write the code." – John Johnson*
+
+<p align="right">
+  <i>Last Updated: <!--LAST_UPDATED:2024-01-15-->January 2024</i>
+</p>
