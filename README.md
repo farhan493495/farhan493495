@@ -53,10 +53,7 @@ Passionate Frontend Developer with expertise in creating beautiful, responsive, 
 
 ## 📊 GitHub Analytics
 
-### 🔥 Streak Stats
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=farhan493495&theme=react&hide_border=true&fire=FF6B6B&background=0D1117" alt="GitHub Streak" />
-</p>
+
 
 ### 📈 GitHub Stats
 <p align="center">
