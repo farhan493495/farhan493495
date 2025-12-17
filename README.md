@@ -90,20 +90,6 @@ Passionate Frontend Developer with expertise in creating beautiful, responsive, 
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=farhan493495&theme=react-dark&hide_border=true&area=true&custom_title=Frontend%20Contributions&bg_color=0D1117&color=58A6FF&line=58A6FF&point=C9D1D9" alt="Contribution Graph" />
 </p>
 
----
-
-## 🏆 Frontend Skills Matrix
-
-| Skill | Proficiency | Experience |
-|-------|-------------|------------|
-| **React.js** | ⭐⭐⭐⭐⭐ | 3+ Years |
-| **Next.js** | ⭐⭐⭐⭐⭐ | 2+ Years |
-| **TypeScript** | ⭐⭐⭐⭐ | 2+ Years |
-| **Tailwind CSS** | ⭐⭐⭐⭐⭐ | 2+ Years |
-| **Responsive Design** | ⭐⭐⭐⭐⭐ | 3+ Years |
-| **State Management** | ⭐⭐⭐⭐ | 2+ Years |
-| **Performance Optimization** | ⭐⭐⭐⭐ | 1+ Year |
-| **Testing** | ⭐⭐⭐ | 1+ Year |
 
 ---
 
@@ -165,12 +151,8 @@ Passionate Frontend Developer with expertise in creating beautiful, responsive, 
   <i>✨ Turning designs into delightful digital experiences</i>
 </p>
 
-<div align="center">
-  
-  ![Profile Views](https://komarev.com/ghpvc/?username=farhan493495&color=blue&style=flat-square&label=Profile+Views)
-  
-</div>
+
 
 <p align="right">
-  <i>Updated: January 2024 • Focus: Frontend Excellence</i>
+  <i>Updated: December 2025 • Focus: Frontend Excellence</i>
 </p>
