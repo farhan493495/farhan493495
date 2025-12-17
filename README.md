@@ -4,6 +4,35 @@
 
 ---
 
+## 📫 Quick Connect
+<div align="center">
+  
+  [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/farhan493495)
+  [![Portfolio](https://img.shields.io/badge/Portfolio-FF4088?style=for-the-badge&logo=portfolio&logoColor=white)](https://farhan-ahmad.vercel.app/)
+  [![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://vercel.com/farhan-ahmeds-projects-6dc96427)
+  [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:fa6768243@gmail.com)
+  [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/farhan-ahmad945994493)
+  
+</div>
+
+---
+
+## 🎨 Featured Projects
+
+| Project | Description | Tech Stack | Live Demo |
+|---------|-------------|------------|-----------|
+| **Apple Shop E-Commerce** | Full-featured e-commerce platform with product catalog, shopping cart and user authentication | React, Redux, JavaScript, Tailwind CSS | [Live Demo](https://fa-apple-shop.vercel.app/) |
+| **AI Chatbot** | AI chatbot with natural language processing, real-time responses, and conversation history using AI APIs | React, AI/ML, JavaScript, Tailwind CSS, API Integration | [Live Demo](https://fa-ai-chatbot.vercel.app/) |
+| **Weather Application** | Real-time weather forecasting app with location detection, beautiful data visualizations | React, API, Geolocation, JavaScript, Tailwind CSS | [Live Demo](https://fa-weather-app.vercel.app/) |
+| **Akoya Web App** | Modern web application with responsive design built with cutting-edge technologies | React, JavaScript, Tailwind CSS, API | [Live Demo](https://fa-akoya.vercel.app/) |
+| **Empower Zone Website** | Empowering community platform with resources, mentorship programs, and interactive learning modules | React, Tailwind CSS, JavaScript | [Live Demo](https://fa-empower-zone.vercel.app/) |
+| **Charity Website** | Donation platform for non-profit organizations with secure payment processing and campaign tracking | React, Tailwind CSS, Context API | [Live Demo](https://fa-charity-website.vercel.app/) |
+| **Quiz App** | Quiz application with timer functionality, progress tracking, and engaging UI | React, JavaScript, Tailwind CSS, Local Storage | [Live Demo](https://fa-quiz-app.vercel.app/) |
+| **To Do App** | Productivity application with task management, due dates, priority levels, and dark mode | React, Tailwind CSS, Context API | [Live Demo](https://fa-to-do-app.vercel.app/) |
+| **Text Translator** | Multi-language translation tool with text-to-speech and language detection | React, Tailwind CSS, Translation API | [Live Demo](https://fa-text-translator.vercel.app/) |
+
+---
+
 ## 📌 About Me
 Passionate Frontend Developer with expertise in creating beautiful, responsive, and high-performance web applications. I focus on delivering exceptional user experiences through clean code, modern design patterns, and cutting-edge frontend technologies. Currently contributing to innovative projects at **Codes Thinker** while continuously expanding my skills in advanced frontend development.
 
@@ -41,8 +70,6 @@ Passionate Frontend Developer with expertise in creating beautiful, responsive, 
 ![Chakra UI](https://img.shields.io/badge/Chakra%20UI-319795?style=for-the-badge&logo=chakra-ui&logoColor=white)
 ![Framer Motion](https://img.shields.io/badge/Framer%20Motion-0055FF?style=for-the-badge&logo=framer&logoColor=white)
 
-
-
 ### **Version Control & Tools**
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
@@ -51,31 +78,7 @@ Passionate Frontend Developer with expertise in creating beautiful, responsive, 
 
 ---
 
-## 📊 GitHub Analytics
 
-
-
-### 📈 GitHub Stats
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=farhan493495&show_icons=true&theme=react&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=58A6FF&text_color=C9D1D9" alt="GitHub Stats" />
-</p>
-
-### 💻 Most Used Languages
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=farhan493495&layout=compact&theme=react&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9&langs_count=8" alt="Top Languages" />
-</p>
-
----
-
-## 🎨 Featured Frontend Projects
-
-| Project | Description | Tech Stack | Live Demo | Code |
-|---------|-------------|------------|-----------|------|
-| **Modern E-Commerce UI** | Fully responsive e-commerce interface with cart & checkout | React, Tailwind CSS, Context API | [Live](https://ecommerce-farhan493495.vercel.app) | [GitHub](https://github.com/farhan493495/ecommerce-ui) |
-| **Portfolio Website** | Interactive portfolio with animations & dark mode | Next.js 14, Framer Motion, TypeScript | [Live](https://farhan493495.vercel.app) | [GitHub](https://github.com/farhan493495/portfolio) |
-| **Task Management App** | Drag & drop task board with local storage | React, DnD Kit, Zustand | [Live](https://taskapp-farhan493495.vercel.app) | [GitHub](https://github.com/farhan493495/task-manager) |
-| **Weather Dashboard** | Real-time weather with geolocation & charts | React, OpenWeather API, Recharts | [Live](https://weather-farhan493495.vercel.app) | [GitHub](https://github.com/farhan493495/weather-dashboard) |
-| **Movie Discovery App** | Movie search with filters & details | React, TMDB API, Axios | [Live](https://movies-farhan493495.vercel.app) | [GitHub](https://github.com/farhan493495/movie-app) |
 
 ---
 
@@ -83,7 +86,6 @@ Passionate Frontend Developer with expertise in creating beautiful, responsive, 
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=farhan493495&theme=react-dark&hide_border=true&area=true&custom_title=Frontend%20Contributions&bg_color=0D1117&color=58A6FF&line=58A6FF&point=C9D1D9" alt="Contribution Graph" />
 </p>
-
 
 ---
 
@@ -106,21 +108,8 @@ Passionate Frontend Developer with expertise in creating beautiful, responsive, 
 ## 🚀 Vercel Deployments
 <div align="center">
   
-  [![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://vercel.com/farhan493495)
-  [![All Projects](https://img.shields.io/badge/View_All_Projects-4285F4?style=for-the-badge&logo=google-chrome&logoColor=white)](https://farhan493495.vercel.app/projects)
-  
-</div>
-
----
-
-## 📫 Connect With Me
-<div align="center">
-  
-  [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/farhan493495)
-  [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/farhan493495)
-  [![Portfolio](https://img.shields.io/badge/Portfolio-FF4088?style=for-the-badge&logo=portfolio&logoColor=white)](https://farhan493495.vercel.app)
-  [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:farhan493495@example.com)
-  [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/farhan493495)
+  [![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://vercel.com/farhan-ahmeds-projects-6dc96427)
+  [![All Projects](https://img.shields.io/badge/View_All_Projects-4285F4?style=for-the-badge&logo=google-chrome&logoColor=white)](https://farhan-ahmad.vercel.app/projects)
   
 </div>
 
@@ -144,8 +133,6 @@ Passionate Frontend Developer with expertise in creating beautiful, responsive, 
 <p align="center">
   <i>✨ Turning designs into delightful digital experiences</i>
 </p>
-
-
 
 <p align="right">
   <i>Updated: December 2025 • Focus: Frontend Excellence</i>
