@@ -30,7 +30,7 @@
 |---------|-------------|------------|-----------|
 | **My Portfolio** | Personal portfolio website showcasing my skills, experience, and projects | React, Tailwind, JavaScript | [Live&nbsp;Demo](https://farhan-ahmad.vercel.app/) |
 | **Akoya Web App** | Modern responsive web application with cutting-edge technologies | React, JavaScript, Tailwind | [Live&nbsp;Demo](https://fa-akoya.vercel.app/) |
-| **Empower Zone Website** | Community platform with resources and interactive learning modules | React, Tailwind, JavaScript | [Live&nbsp;Demo](https://fa-empower-zone.vercel.app/) |
+| **Empower Zone Website** | Community platform with resources and interactive learning modules | React, Tailwind, JavaScript | [Live&nbsp;Demo](https://empower-zone.vercel.app/) |
 | **Charity Website** | Donation platform with secure payment and campaign tracking | React, Context API, Tailwind | [Live&nbsp;Demo](https://fa-charity-website.vercel.app/) |
 | **AI Chatbot** | Intelligent chatbot with NLP, real-time responses, and conversation history | React, AI APIs, Tailwind | [Live&nbsp;Demo](https://fa-ai-chatbot.vercel.app/) |
 | **Weather Application** | Real-time weather forecasting with location detection and visualizations | React, Geolocation, Tailwind | [Live&nbsp;Demo](https://fa-weather-app.vercel.app/) |
