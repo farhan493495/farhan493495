@@ -26,19 +26,22 @@
 
 ## Featured Projects
 
-| Project | Description | Tech Stack | Live&nbsp;Demo |
-|---------|-------------|------------|-----------|
-| **My Portfolio** | Personal portfolio website showcasing my skills, experience, and projects | React, Tailwind, JavaScript | [Live&nbsp;Demo](https://farhan-ahmad.vercel.app/) |
-| **Akoya Web App** | Modern responsive web application with cutting-edge technologies | React, JavaScript, Tailwind | [Live&nbsp;Demo](https://fa-akoya.vercel.app/) |
-| **Empower Zone Website** | Community platform with resources and interactive learning modules | React, Tailwind, JavaScript | [Live&nbsp;Demo](https://empower-zone.vercel.app/) |
-| **Charity Website** | Donation platform with secure payment and campaign tracking | React, Context API, Tailwind | [Live&nbsp;Demo](https://fa-charity-website.vercel.app/) |
-| **AI Chatbot** | Intelligent chatbot with NLP, real-time responses, and conversation history | React, AI APIs, Tailwind | [Live&nbsp;Demo](https://fa-ai-chatbot.vercel.app/) |
-| **Weather Application** | Real-time weather forecasting with location detection and visualizations | React, Geolocation, Tailwind | [Live&nbsp;Demo](https://fa-weather-app.vercel.app/) |
-| **Quiz App** | Quiz application with timer, progress tracking, and engaging UI | React, JavaScript, Tailwind | [Live&nbsp;Demo](https://fa-quiz-app.vercel.app/) |
-| **Text Translator** | Multi-language translation with text-to-speech and language detection | React, Tailwind, Translation API | [Live&nbsp;Demo](https://fa-text-translator.vercel.app/) |
-| **To Do App** | Productivity app with task management, due dates, and dark mode | React, Context API, Tailwind | [Live&nbsp;Demo](https://fa-to-do-app.vercel.app/) |
+| Project | Description | Tech Stack | Live Demo |
+| --- | --- | --- | --- |
+| **My Portfolio** | Personal portfolio website showcasing my skills, experience, and projects | React, Tailwind, JavaScript | [Live Demo](https://farhan-ahmad.vercel.app/) |
+| **Akoya Web App** | Modern responsive web application with cutting-edge technologies | React, JavaScript, Tailwind | [Live Demo](https://fa-akoya.vercel.app/) |
+| **Empower Zone Website** | Community platform with resources and interactive learning modules | React, Tailwind, JavaScript | [Live Demo](https://empower-zone.vercel.app/) |
+| **Admin Dashboard** | Enterprise-level analytics panel with real-time data visualization and user management | React, Recharts, Tailwind | [Live Demo](https://www.google.com/search?q=https://fa-dashboard.vercel.app/) |
+| **Charity Website** | Donation platform with secure payment and campaign tracking | React, Context API, Tailwind | [Live Demo](https://fa-charity-website.vercel.app/) |
+| **AI Chatbot** | Intelligent chatbot with NLP, real-time responses, and conversation history | React, AI APIs, Tailwind | [Live Demo](https://fa-ai-chatbot.vercel.app/) |
+| **Weather Application** | Real-time weather forecasting with location detection and visualizations | React, Geolocation, Tailwind | [Live Demo](https://fa-weather-app.vercel.app/) |
+| **Quiz App** | Quiz application with timer, progress tracking, and engaging UI | React, JavaScript, Tailwind | [Live Demo](https://fa-quiz-app.vercel.app/) |
+| **Text Translator** | Multi-language translation with text-to-speech and language detection | React, Tailwind, Translation API | [Live Demo](https://fa-text-translator.vercel.app/) |
+| **To Do App** | Productivity app with task management, due dates, and dark mode | React, Context API, Tailwind | [Live Demo](https://fa-to-do-app.vercel.app/) |
+| **Apple Shop E-Commerce** | Full-featured e-commerce platform with product catalog and shopping cart | React, Redux, Tailwind | [Live Demo](https://www.google.com/search?q=https://fa-apple-shop.vercel.app/) |
 
 </div>
+
 
 <div align="center">
 
