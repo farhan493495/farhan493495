@@ -12,11 +12,11 @@
 
 <br/>
 
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge)](https://github.com/farhan493495)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge)](https://www.linkedin.com/in/farhan-ahmad945994493)
-[![Portfolio](https://img.shields.io/badge/Portfolio-FF4088?style=for-the-badge)](https://farhan-ahmad.vercel.app/)
-[![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge)](https://vercel.com/farhan-ahmeds-projects-6dc96427)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge)](mailto:fa6768243@gmail.com)
+<a href="https://github.com/farhan493495" target="_blank">![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge)</a>
+<a href="https://www.linkedin.com/in/farhan-ahmad945994493" target="_blank">![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge)</a>
+<a href="https://farhan-ahmad.vercel.app/" target="_blank">![Portfolio](https://img.shields.io/badge/Portfolio-FF4088?style=for-the-badge)</a>
+<a href="https://vercel.com/farhan-ahmeds-projects-6dc96427" target="_blank">![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge)</a>
+<a href="mailto:fa6768243@gmail.com" target="_blank">![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge)</a>
 
 <br/>
 
@@ -120,5 +120,5 @@ Passionate Frontend Developer with expertise in creating beautiful, responsive, 
 </div>
 
 <div align="right">
-  <p><i>Updated: December 2025 • Focus: Frontend Excellence</i></p>
+  <p><i>Updated: 2026 • Focus: Frontend Excellence</i></p>
 </div>
