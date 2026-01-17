@@ -12,11 +12,21 @@
 
 <br/>
 
-<a href="https://github.com/farhan493495" target="_blank">![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge)</a>
-<a href="https://www.linkedin.com/in/farhan-ahmad945994493" target="_blank">![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge)</a>
-<a href="https://farhan-ahmad.vercel.app/" target="_blank">![Portfolio](https://img.shields.io/badge/Portfolio-FF4088?style=for-the-badge)</a>
-<a href="https://vercel.com/farhan-ahmeds-projects-6dc96427" target="_blank">![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge)</a>
-<a href="mailto:fa6768243@gmail.com" target="_blank">![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge)</a>
+<a href="https://github.com/farhan493495" target="_blank">
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge" alt="GitHub" />
+</a>
+<a href="https://www.linkedin.com/in/farhan-ahmad945994493" target="_blank">
+  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge" alt="LinkedIn" />
+</a>
+<a href="https://farhan-ahmad.vercel.app/" target="_blank">
+  <img src="https://img.shields.io/badge/Portfolio-FF4088?style=for-the-badge" alt="Portfolio" />
+</a>
+<a href="https://vercel.com/farhan-ahmeds-projects-6dc96427" target="_blank">
+  <img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge" alt="Vercel" />
+</a>
+<a href="mailto:fa6768243@gmail.com" target="_blank">
+  <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge" alt="Email" />
+</a>
 
 <br/>
 
