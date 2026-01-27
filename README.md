@@ -37,7 +37,7 @@
 | **Weather Application** | Real-time weather forecasting with location detection and visualizations | React, Geolocation, Tailwind | [Live&nbsp;Demo](https://fa-weather-app.vercel.app/) |
 | **Quiz App** | Quiz application with timer, progress tracking, and engaging UI | React, JavaScript, Tailwind | [Live&nbsp;Demo](https://fa-quiz-app.vercel.app/) |
 | **Text Translator** | Multi-language translation with text-to-speech and language detection | React, Tailwind, Translation API | [Live&nbsp;Demo](https://fa-text-translator.vercel.app/) |
-| **To Do App** | Productivity app with task management, due dates, and dark mode | React, Context API, Tailwind | [Live&nbsp;Demo](https://fa-to-do-app.vercel.app/) |
+
 | **Apple Shop E-Commerce** | Full-featured e-commerce platform with product catalog and shopping cart | React, Redux, Tailwind | [Live&nbsp;Demo](https://fa-apple-shop.vercel.app/) |
 | **Food Restaurant** | Interactive restaurant website with digital menu and online reservation system | React, Tailwind, JavaScript | [Live&nbsp;Demo](https://fa-food-restaurant.vercel.app/) |
 | **Perfume Store** | Luxury fragrance e-commerce landing page with elegant UI and product filtering | React, Tailwind, JavaScript | [Live&nbsp;Demo](https://fa-perfumes.vercel.app/) |
