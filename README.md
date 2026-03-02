@@ -1,33 +1,62 @@
 <div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=280&section=header&text=Farhan%20Ahmad&fontSize=80&animation=fadeIn&fontAlignY=35&desc=Frontend%20Developer%20%7C%20React%20Specialist&descAlignY=55&descSize=25" width="100%" />
 
-# Hi, I'm Farhan Ahmad
-## Frontend Developer | React Specialist
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&weight=600&pause=1000&color=2D7DDB&center=true&vCenter=true&width=680&lines=Frontend+Developer;React+Specialist;Building+Beautiful+Web+Experiences;Creating+Responsive+%26+Performant+UIs" alt="Typing SVG" />
+  </a>
 
+  <p align="center">
+    <a href="https://farhan-ahmad.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-FF4088?style=for-the-badge&logo=vercel&logoColor=white" /></a>
+    <a href="https://www.linkedin.com/in/farhan-ahmad945994493"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+    <a href="https://github.com/farhan493495"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
+    <a href="https://vercel.com/farhan-ahmeds-projects-6dc96427"><img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white" /></a>
+    <a href="mailto:fa6768243@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=mail.ru&logoColor=white" /></a>
+  </p>
 </div>
 
-<div align="center">
+---
 
-## Quick Connect
-*Let's build something amazing together!*
+## 📋 Professional Profile
 
-<br/>
+Passionate **Frontend Developer** specializing in creating beautiful, responsive, and high-performance web applications. I focus on delivering exceptional user experiences through clean code, modern design patterns, and cutting-edge **frontend technologies**.
 
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge)](https://github.com/farhan493495)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge)](https://www.linkedin.com/in/farhan-ahmad945994493)
-[![Portfolio](https://img.shields.io/badge/Portfolio-FF4088?style=for-the-badge)](https://farhan-ahmad.vercel.app/)
-[![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge)](https://vercel.com/farhan-ahmeds-projects-6dc96427)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge)](mailto:fa6768243@gmail.com)
+* 🏢 **Current Role:** Frontend Developer at **Codes Thinker**, contributing to innovative projects
+* 🎯 **Technical Focus:** React development, responsive design, and performance optimization
+* 📈 **Value Proposition:** Turning designs into delightful digital experiences with clean, maintainable code
+* 🔄 **Continuous Learning:** Advancing expertise in **advanced React patterns**, **state management**, and **modern CSS**
 
-<br/>
+---
 
-</div>
+## 🛠️ Technical Competencies
 
-<div align="center">
+### **Core Technologies**
+![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=20232A)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
 
-## Featured Projects
+### **Styling & UI**
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white)
+![Styled Components](https://img.shields.io/badge/Styled_Components-DB7093?style=flat-square&logo=styled-components&logoColor=white)
+![Material-UI](https://img.shields.io/badge/Material_UI-0081CB?style=flat-square&logo=mui&logoColor=white)
 
-| Project | Description | Tech Stack | Live Demo |
-| --- | --- | --- | --- |
+### **State Management & Build Tools**
+![Redux](https://img.shields.io/badge/Redux-764ABC?style=flat-square&logo=redux&logoColor=white)
+![Context API](https://img.shields.io/badge/Context_API-61DAFB?style=flat-square&logo=react&logoColor=20232A)
+![Vite](https://img.shields.io/badge/Vite-646CFF?style=flat-square&logo=vite&logoColor=white)
+
+### **Version Control & Tools**
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white)
+![Vercel](https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white)
+
+---
+
+## 🏗️ Project Portfolio
+
+| Project | Description | Technologies | Live Demo |
+|---------|-------------|--------------|-----------|
 | **My Portfolio** | Personal portfolio website showcasing my skills, experience, and projects | React, Tailwind, JavaScript | [Live&nbsp;Demo](https://farhan-ahmad.vercel.app/) |
 | **Akoya Web App** | Modern responsive web application with cutting-edge technologies | React, JavaScript, Tailwind | [Live&nbsp;Demo](https://fa-akoya.vercel.app/) |
 | **Empower Zone Website** | Community platform with resources and interactive learning modules | React, Tailwind, JavaScript | [Live&nbsp;Demo](https://empower-zone.vercel.app/) |
@@ -37,88 +66,41 @@
 | **Weather Application** | Real-time weather forecasting with location detection and visualizations | React, Geolocation, Tailwind | [Live&nbsp;Demo](https://fa-weather-app.vercel.app/) |
 | **Quiz App** | Quiz application with timer, progress tracking, and engaging UI | React, JavaScript, Tailwind | [Live&nbsp;Demo](https://fa-quiz-app.vercel.app/) |
 | **Text Translator** | Multi-language translation with text-to-speech and language detection | React, Tailwind, Translation API | [Live&nbsp;Demo](https://fa-text-translator.vercel.app/) |
-
 | **Apple Shop E-Commerce** | Full-featured e-commerce platform with product catalog and shopping cart | React, Redux, Tailwind | [Live&nbsp;Demo](https://fa-apple-shop.vercel.app/) |
 | **Food Restaurant** | Interactive restaurant website with digital menu and online reservation system | React, Tailwind, JavaScript | [Live&nbsp;Demo](https://fa-food-restaurant.vercel.app/) |
 | **Perfume Store** | Luxury fragrance e-commerce landing page with elegant UI and product filtering | React, Tailwind, JavaScript | [Live&nbsp;Demo](https://fa-perfumes.vercel.app/) |
 | **Barber Shop** | Modern service booking platform with stylist profiles and appointment scheduling | React, Tailwind, JavaScript | [Live&nbsp;Demo](https://fa-barber-shop.vercel.app/) |
 
-</div>
-
-<div align="center">
-
-## About Me
-
-**Frontend Developer | React Specialist**
-
-Passionate Frontend Developer with expertise in creating beautiful, responsive, and high-performance web applications. I focus on delivering exceptional user experiences through clean code, modern design patterns, and cutting-edge frontend technologies. Currently contributing to innovative projects at **Codes Thinker** while continuously expanding my skills in advanced frontend development.
-
 ---
 
-</div>
-
-<div align="center">
-
-## Frontend Technology Stack
-
-### **Core Technologies**
-![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge)
-
-### **Styling & UI**
-![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge)
-![Styled Components](https://img.shields.io/badge/Styled_Components-DB7093?style=for-the-badge)
-
-### **State Management**
-![Redux](https://img.shields.io/badge/Redux-764ABC?style=for-the-badge)
-![Context API](https://img.shields.io/badge/Context_API-61DAFB?style=for-the-badge)
-
-### **Build Tools & Development**
-![Vite](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge)
-
-### **UI Libraries**
-![Material-UI](https://img.shields.io/badge/Material_UI-0081CB?style=for-the-badge)
-
-### **Version Control & Tools**
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge)
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge)
-
----
-
-## Contribution Activity
+## 📈 Development Metrics
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=farhan493495&theme=react-dark&hide_border=true&area=true&custom_title=Frontend%20Contributions&bg_color=0D1117&color=58A6FF&line=58A6FF&point=C9D1D9" alt="Contribution Graph" width="100%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=farhan493495&show_icons=true&theme=github_dark&hide_border=true&include_all_commits=true&count_private=true&hide_title=false&line_height=24" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=farhan493495&layout=compact&theme=github_dark&hide_border=true&langs_count=6&hide_title=false" width="45%" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=farhan493495&theme=react-dark&area=true&hide_border=true&custom_title=Frontend%20Contributions&bg_color=0D1117&color=58A6FF&line=58A6FF&point=C9D1D9" width="90%" />
 </p>
 
 ---
 
-<div align="center">
+## 🧭 Engineering Philosophy
 
-## Quick Stats
+```typescript
+interface FrontendPrinciples {
+  codeQuality: "Clean, maintainable, and well-documented";
+  userExperience: "Intuitive, responsive, and accessible";
+  collaboration: "Cross-functional teamwork and knowledge sharing";
+  delivery: "Iterative development with measurable outcomes";
+  innovation: "Balancing proven patterns with emerging technologies";
+}
 
-<div style="margin: 20px 0;">
-
-![Total Projects](https://img.shields.io/badge/Projects-20+-blue?style=for-the-badge)
-![Vercel Deployments](https://img.shields.io/badge/Deployments-15+-success?style=for-the-badge)
-![Code Hours](https://img.shields.io/badge/Code_Hours-2000+-orange?style=for-the-badge)
-![Open Source](https://img.shields.io/badge/Open_Source-Contributor-green?style=for-the-badge)
-
-</div>
-
----
-
-## Frontend Philosophy
-
-> *"Great frontend development is not just about writing code—it's about creating experiences that feel intuitive, perform flawlessly, and bring joy to users."*
-
-<p><i>Turning designs into delightful digital experiences</i></p>
-
-</div>
-
-<div align="right">
-  <p><i>Updated: 2026 • Focus: Frontend Excellence</i></p>
-</div>
+const developmentApproach: FrontendPrinciples = {
+  codeQuality: "Component-driven design with reusable, testable code",
+  userExperience: "Creating experiences that feel intuitive and bring joy to users",
+  collaboration: "Active participation in code reviews and design discussions",
+  delivery: "Agile methodologies with continuous integration/deployment",
+  innovation: "Strategic adoption of frontend technologies that provide tangible value"
+};
