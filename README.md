@@ -26,14 +26,6 @@
     <img src="https://img.shields.io/badge/Email-06B6D4?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
 
-  <br/><br/>
-
-  <img src="https://komarev.com/ghpvc/?username=farhan493495&style=for-the-badge&color=8B5CF6&label=PROFILE+VIEWS" />
-  &nbsp;
-  <img src="https://img.shields.io/badge/Focus-Frontend%20Development-06B6D4?style=for-the-badge" />
-  &nbsp;
-  <img src="https://img.shields.io/badge/Lives-Pakistan-10B981?style=for-the-badge" />
-
 </div>
 
 <br/>
@@ -112,319 +104,319 @@ Passionate **Frontend Developer** with a keen eye for design and a love for crea
 <tr>
 <td width="50%">
 
-### 🏗️ CoreCodex
-<p>Innovative platform for modern development solutions and coding resources.</p>
-<p><code>React</code> <code>Tailwind</code> <code>Development</code></p>
-<a href="https://corecodex.vercel.app/">
+### 🌐 My Portfolio
+<p>Personal portfolio website showcasing my skills, experience, and projects</p>
+<p><code>React</code> <code>Tailwind</code> <code>JavaScript</code></p>
+<a href="https://farhan-ahmad.vercel.app/">
   <img src="https://img.shields.io/badge/LIVE_DEMO-8B5CF6?style=for-the-badge&logo=vercel&logoColor=white" />
 </a>
 
 </td>
+<td width="50%">
+
+### 🏗️ CoreCodex
+<p>Innovative platform for modern development solutions and coding resources.</p>
+<p><code>React</code> <code>Tailwind</code> <code>Development</code></p>
+<a href="https://corecodex.vercel.app/">
+  <img src="https://img.shields.io/badge/LIVE_DEMO-06B6D4?style=for-the-badge&logo=vercel&logoColor=white" />
+</a>
+
+</td>
+</tr>
+
+<tr>
 <td width="50%">
 
 ### ⚖️ Elite Legal Services
 <p>Professional online platform for connecting with top-tier legal experts and consultation services.</p>
 <p><code>React</code> <code>Tailwind</code> <code>Services</code></p>
 <a href="https://elite-legal-services.vercel.app/">
-  <img src="https://img.shields.io/badge/LIVE_DEMO-06B6D4?style=for-the-badge&logo=vercel&logoColor=white" />
+  <img src="https://img.shields.io/badge/LIVE_DEMO-10B981?style=for-the-badge&logo=vercel&logoColor=white" />
 </a>
 
 </td>
-</tr>
-
-<tr>
 <td width="50%">
 
 ### 🩸 Blood Donation
 <p>A platform connecting blood donors with recipients to streamline the donation process and save lives.</p>
 <p><code>React</code> <code>Tailwind</code> <code>Healthcare</code></p>
 <a href="https://fa-blood-donation.vercel.app/">
-  <img src="https://img.shields.io/badge/LIVE_DEMO-10B981?style=for-the-badge&logo=vercel&logoColor=white" />
+  <img src="https://img.shields.io/badge/LIVE_DEMO-8B5CF6?style=for-the-badge&logo=vercel&logoColor=white" />
 </a>
 
 </td>
+</tr>
+
+<tr>
 <td width="50%">
 
 ### 🛡️ Malware Detection
 <p>Advanced security system for analyzing and detecting malicious software before it compromises your device.</p>
 <p><code>React</code> <code>Security</code> <code>Analysis</code></p>
 <a href="https://fa-malware-detection.vercel.app/">
-  <img src="https://img.shields.io/badge/LIVE_DEMO-8B5CF6?style=for-the-badge&logo=vercel&logoColor=white" />
+  <img src="https://img.shields.io/badge/LIVE_DEMO-06B6D4?style=for-the-badge&logo=vercel&logoColor=white" />
 </a>
 
 </td>
-</tr>
-
-<tr>
 <td width="50%">
 
 ### 🛍️ Akoya
 <p>Modern web application with responsive design. Built with cutting-edge technologies.</p>
 <p><code>React</code> <code>JavaScript</code> <code>Tailwind</code> <code>API</code></p>
 <a href="https://fa-akoya.vercel.app/">
-  <img src="https://img.shields.io/badge/LIVE_DEMO-06B6D4?style=for-the-badge&logo=vercel&logoColor=white" />
+  <img src="https://img.shields.io/badge/LIVE_DEMO-10B981?style=for-the-badge&logo=vercel&logoColor=white" />
 </a>
 
 </td>
+</tr>
+
+<tr>
 <td width="50%">
 
 ### 💝 Charity Website
 <p>Donation platform for non-profit organizations with secure payment processing, campaign tracking, and donor management.</p>
 <p><code>React</code> <code>Tailwind</code> <code>Context API</code></p>
 <a href="https://fa-charity-website.vercel.app/">
-  <img src="https://img.shields.io/badge/LIVE_DEMO-10B981?style=for-the-badge&logo=vercel&logoColor=white" />
+  <img src="https://img.shields.io/badge/LIVE_DEMO-8B5CF6?style=for-the-badge&logo=vercel&logoColor=white" />
 </a>
 
 </td>
-</tr>
-
-<tr>
 <td width="50%">
 
 ### 💡 Empower Zone Website
 <p>Empowering community platform with resources, mentorship programs, and interactive learning modules.</p>
 <p><code>React</code> <code>Tailwind</code> <code>JavaScript</code></p>
 <a href="https://empower-zone.vercel.app/">
-  <img src="https://img.shields.io/badge/LIVE_DEMO-8B5CF6?style=for-the-badge&logo=vercel&logoColor=white" />
+  <img src="https://img.shields.io/badge/LIVE_DEMO-06B6D4?style=for-the-badge&logo=vercel&logoColor=white" />
 </a>
 
 </td>
+</tr>
+
+<tr>
 <td width="50%">
 
 ### 🏛️ Government Services Marketplace
 <p>A comprehensive marketplace platform for finding and accessing various government services efficiently.</p>
 <p><code>React</code> <code>Tailwind</code> <code>Platform</code></p>
 <a href="https://government-services-marketplace-pla.vercel.app/">
-  <img src="https://img.shields.io/badge/LIVE_DEMO-06B6D4?style=for-the-badge&logo=vercel&logoColor=white" />
+  <img src="https://img.shields.io/badge/LIVE_DEMO-10B981?style=for-the-badge&logo=vercel&logoColor=white" />
 </a>
 
 </td>
-</tr>
-
-<tr>
 <td width="50%">
 
 ### 🤖 AI Dosari
 <p>AI-powered application providing intelligent solutions and automated processes.</p>
 <p><code>React</code> <code>Tailwind</code> <code>AI</code></p>
 <a href="https://ai-dosari.vercel.app/">
-  <img src="https://img.shields.io/badge/LIVE_DEMO-10B981?style=for-the-badge&logo=vercel&logoColor=white" />
+  <img src="https://img.shields.io/badge/LIVE_DEMO-8B5CF6?style=for-the-badge&logo=vercel&logoColor=white" />
 </a>
 
 </td>
+</tr>
+
+<tr>
 <td width="50%">
 
 ### 📊 Analytics Dashboard
 <p>Enterprise-level admin panel featuring real-time data visualization, user management, and performance tracking.</p>
 <p><code>React</code> <code>Recharts</code> <code>Tailwind</code> <code>Lucide</code></p>
 <a href="https://fa-dashboard.vercel.app/">
-  <img src="https://img.shields.io/badge/LIVE_DEMO-8B5CF6?style=for-the-badge&logo=vercel&logoColor=white" />
+  <img src="https://img.shields.io/badge/LIVE_DEMO-06B6D4?style=for-the-badge&logo=vercel&logoColor=white" />
 </a>
 
 </td>
-</tr>
-
-<tr>
 <td width="50%">
 
 ### 💬 AI Chatbot
 <p>AI chatbot with natural language processing, real-time responses, and conversation history using AI APIs.</p>
 <p><code>React</code> <code>JavaScript</code> <code>Tailwind</code> <code>AI/ML</code> <code>API</code></p>
 <a href="https://fa-ai-chatbot.vercel.app/">
-  <img src="https://img.shields.io/badge/LIVE_DEMO-06B6D4?style=for-the-badge&logo=vercel&logoColor=white" />
+  <img src="https://img.shields.io/badge/LIVE_DEMO-10B981?style=for-the-badge&logo=vercel&logoColor=white" />
 </a>
 
 </td>
+</tr>
+
+<tr>
 <td width="50%">
 
 ### 🌤️ Weather Application
 <p>Real-time weather forecasting app with location detection, Features beautiful data visualizations.</p>
 <p><code>React</code> <code>JavaScript</code> <code>Tailwind</code> <code>API</code> <code>Geolocation</code></p>
 <a href="https://fa-weather-app.vercel.app/">
-  <img src="https://img.shields.io/badge/LIVE_DEMO-10B981?style=for-the-badge&logo=vercel&logoColor=white" />
+  <img src="https://img.shields.io/badge/LIVE_DEMO-8B5CF6?style=for-the-badge&logo=vercel&logoColor=white" />
 </a>
 
 </td>
-</tr>
-
-<tr>
 <td width="50%">
 
 ### 🧠 Quiz App
 <p>Quiz application with timer functionality and progress tracking. Features engaging UI and result summaries.</p>
 <p><code>React</code> <code>Tailwind</code> <code>JavaScript</code> <code>Local Storage</code> <code>UI/UX</code></p>
 <a href="https://fa-quiz-app.vercel.app/">
-  <img src="https://img.shields.io/badge/LIVE_DEMO-8B5CF6?style=for-the-badge&logo=vercel&logoColor=white" />
+  <img src="https://img.shields.io/badge/LIVE_DEMO-06B6D4?style=for-the-badge&logo=vercel&logoColor=white" />
 </a>
 
 </td>
+</tr>
+
+<tr>
 <td width="50%">
 
 ### 🌍 Text Translator
 <p>Multi-language translation tool with text-to-speech, language detection and Supports multiple languages.</p>
 <p><code>React</code> <code>Tailwind</code> <code>Translation API</code></p>
 <a href="https://fa-text-translator.vercel.app/">
-  <img src="https://img.shields.io/badge/LIVE_DEMO-06B6D4?style=for-the-badge&logo=vercel&logoColor=white" />
+  <img src="https://img.shields.io/badge/LIVE_DEMO-10B981?style=for-the-badge&logo=vercel&logoColor=white" />
 </a>
 
 </td>
-</tr>
-
-<tr>
 <td width="50%">
 
 ### 🍎 Apple Shop E-Commerce
 <p>Full-featured e-commerce platform with product catalog, shopping cart and user authentication.</p>
 <p><code>React</code> <code>JavaScript</code> <code>Tailwind</code> <code>Redux</code></p>
 <a href="https://fa-apple-shop.vercel.app/">
-  <img src="https://img.shields.io/badge/LIVE_DEMO-10B981?style=for-the-badge&logo=vercel&logoColor=white" />
+  <img src="https://img.shields.io/badge/LIVE_DEMO-8B5CF6?style=for-the-badge&logo=vercel&logoColor=white" />
 </a>
 
 </td>
+</tr>
+
+<tr>
 <td width="50%">
 
 ### 🌸 Luxury Perfumes
 <p>Elegant e-commerce platform for premium fragrances with curated collections, product details, and a seamless shopping experience.</p>
 <p><code>React</code> <code>Tailwind</code> <code>Framer Motion</code> <code>E-commerce</code></p>
 <a href="https://fa-perfumes.vercel.app/">
-  <img src="https://img.shields.io/badge/LIVE_DEMO-8B5CF6?style=for-the-badge&logo=vercel&logoColor=white" />
+  <img src="https://img.shields.io/badge/LIVE_DEMO-06B6D4?style=for-the-badge&logo=vercel&logoColor=white" />
 </a>
 
 </td>
-</tr>
-
-<tr>
 <td width="50%">
 
 ### 🍕 FusionBites Restaurant
 <p>Modern restaurant website featuring a digital menu, online ordering system, and super-fast delivery tracking.</p>
 <p><code>React</code> <code>Tailwind</code> <code>Animations</code> <code>UI/UX</code></p>
 <a href="https://fa-food-restaurant.vercel.app/">
-  <img src="https://img.shields.io/badge/LIVE_DEMO-06B6D4?style=for-the-badge&logo=vercel&logoColor=white" />
+  <img src="https://img.shields.io/badge/LIVE_DEMO-10B981?style=for-the-badge&logo=vercel&logoColor=white" />
 </a>
 
 </td>
+</tr>
+
+<tr>
 <td width="50%">
 
 ### 💈 MasterCuts Barber Shop
 <p>Premium barber shop landing page with service listings, pricing packages, and client testimonials.</p>
 <p><code>React</code> <code>Tailwind</code> <code>Responsive Design</code> <code>Booking</code></p>
 <a href="https://fa-barber-shop.vercel.app/">
-  <img src="https://img.shields.io/badge/LIVE_DEMO-10B981?style=for-the-badge&logo=vercel&logoColor=white" />
+  <img src="https://img.shields.io/badge/LIVE_DEMO-8B5CF6?style=for-the-badge&logo=vercel&logoColor=white" />
 </a>
 
 </td>
-</tr>
-
-<tr>
 <td width="50%">
 
 ### 📝 To Do App
 <p>A simple and intuitive To Do application to manage your daily tasks and boost productivity. Track your progress and stay organized.</p>
 <p><code>React</code> <code>JavaScript</code> <code>Local Storage</code> <code>UI/UX</code></p>
 <a href="https://fa-to-do-app.vercel.app/">
-  <img src="https://img.shields.io/badge/LIVE_DEMO-8B5CF6?style=for-the-badge&logo=vercel&logoColor=white" />
+  <img src="https://img.shields.io/badge/LIVE_DEMO-06B6D4?style=for-the-badge&logo=vercel&logoColor=white" />
 </a>
 
 </td>
+</tr>
+
+<tr>
 <td width="50%">
 
 ### ©️ Add Watermark
 <p>A professional Watermark Studio for protecting your images with customizable watermarks. Upload images and add text or pattern watermarks.</p>
 <p><code>React</code> <code>JavaScript</code> <code>Image Processing</code> <code>UI/UX</code></p>
 <a href="https://fa-add-water-mark.vercel.app/">
-  <img src="https://img.shields.io/badge/LIVE_DEMO-06B6D4?style=for-the-badge&logo=vercel&logoColor=white" />
+  <img src="https://img.shields.io/badge/LIVE_DEMO-10B981?style=for-the-badge&logo=vercel&logoColor=white" />
 </a>
 
 </td>
-</tr>
-
-<tr>
 <td width="50%">
 
 ### 📶 Wifi Test
 <p>A real-time internet performance application to test your Wi-Fi speed and connectivity, providing Ping, Jitter, Download, and Upload speeds.</p>
 <p><code>React</code> <code>JavaScript</code> <code>Network</code> <code>Performance</code></p>
 <a href="https://fa-wifi-test.vercel.app/">
-  <img src="https://img.shields.io/badge/LIVE_DEMO-10B981?style=for-the-badge&logo=vercel&logoColor=white" />
+  <img src="https://img.shields.io/badge/LIVE_DEMO-8B5CF6?style=for-the-badge&logo=vercel&logoColor=white" />
 </a>
 
 </td>
+</tr>
+
+<tr>
 <td width="50%">
 
 ### 🔑 Password Analyzer
 <p>A tool to analyze the strength of your passwords with enterprise-grade metrics and suggest improvements for enhanced security.</p>
 <p><code>React</code> <code>JavaScript</code> <code>Security</code> <code>UI/UX</code></p>
 <a href="https://fa-password-analyzer.vercel.app/">
-  <img src="https://img.shields.io/badge/LIVE_DEMO-8B5CF6?style=for-the-badge&logo=vercel&logoColor=white" />
+  <img src="https://img.shields.io/badge/LIVE_DEMO-06B6D4?style=for-the-badge&logo=vercel&logoColor=white" />
 </a>
 
 </td>
-</tr>
-
-<tr>
 <td width="50%">
 
 ### ⏱️ Stop Watch
 <p>A simple and accurate stopwatch application with timer functionality and countdown mode.</p>
 <p><code>React</code> <code>JavaScript</code> <code>Timer</code> <code>UI/UX</code></p>
 <a href="https://fa-stop-watch.vercel.app/">
-  <img src="https://img.shields.io/badge/LIVE_DEMO-06B6D4?style=for-the-badge&logo=vercel&logoColor=white" />
+  <img src="https://img.shields.io/badge/LIVE_DEMO-10B981?style=for-the-badge&logo=vercel&logoColor=white" />
 </a>
 
 </td>
+</tr>
+
+<tr>
 <td width="50%">
 
 ### 📱 QR Scanner
 <p>A QR code scanner and generator application. Create QR codes from text or URLs and scan existing ones.</p>
 <p><code>React</code> <code>JavaScript</code> <code>QR Code</code> <code>Utility</code></p>
 <a href="https://fa-qr-scanner.vercel.app/">
-  <img src="https://img.shields.io/badge/LIVE_DEMO-10B981?style=for-the-badge&logo=vercel&logoColor=white" />
+  <img src="https://img.shields.io/badge/LIVE_DEMO-8B5CF6?style=for-the-badge&logo=vercel&logoColor=white" />
 </a>
 
 </td>
-</tr>
-
-<tr>
 <td width="50%">
 
 ### ⌨️ Key Highlighter
 <p>An interactive tool to highlight important text or code snippets, simulating keyboard presses for visual emphasis.</p>
 <p><code>React</code> <code>JavaScript</code> <code>UI/UX</code> <code>Utility</code></p>
 <a href="https://fa-key-highlighter.vercel.app/">
-  <img src="https://img.shields.io/badge/LIVE_DEMO-8B5CF6?style=for-the-badge&logo=vercel&logoColor=white" />
+  <img src="https://img.shields.io/badge/LIVE_DEMO-06B6D4?style=for-the-badge&logo=vercel&logoColor=white" />
 </a>
 
 </td>
+</tr>
+
+<tr>
 <td width="50%">
 
 ### 🔄 PDF & Image Converter
 <p>A versatile and client-side conversion tool to convert anything to anything, including PDF and various image formats.</p>
 <p><code>React</code> <code>JavaScript</code> <code>File Conversion</code> <code>Utility</code></p>
 <a href="https://fa-pdf-img-converter.vercel.app/">
-  <img src="https://img.shields.io/badge/LIVE_DEMO-06B6D4?style=for-the-badge&logo=vercel&logoColor=white" />
-</a>
-
-</td>
-</tr>
-
-<tr>
-<td width="50%">
-
-### 🔍 Pixel Search
-<p>An application to search for specific pixel patterns in images, useful for graphic design and analysis.</p>
-<p><code>React</code> <code>JavaScript</code> <code>Image Analysis</code> <code>Utility</code></p>
-<a href="https://fa-pixel-search.vercel.app/">
   <img src="https://img.shields.io/badge/LIVE_DEMO-10B981?style=for-the-badge&logo=vercel&logoColor=white" />
 </a>
 
 </td>
 <td width="50%">
 
-### 💱 Currency Converter
-<p>A real-time currency conversion tool with up-to-date exchange rates.</p>
-<p><code>React</code> <code>JavaScript</code> <code>API</code> <code>Finance</code></p>
-<a href="https://fa-currency-converter.vercel.app/">
+### 🔍 Pixel Search
+<p>An application to search for specific pixel patterns in images, useful for graphic design and analysis.</p>
+<p><code>React</code> <code>JavaScript</code> <code>Image Analysis</code> <code>Utility</code></p>
+<a href="https://fa-pixel-search.vercel.app/">
   <img src="https://img.shields.io/badge/LIVE_DEMO-8B5CF6?style=for-the-badge&logo=vercel&logoColor=white" />
 </a>
 
@@ -434,11 +426,21 @@ Passionate **Frontend Developer** with a keen eye for design and a love for crea
 <tr>
 <td width="50%">
 
+### 💱 Currency Converter
+<p>A real-time currency conversion tool with up-to-date exchange rates.</p>
+<p><code>React</code> <code>JavaScript</code> <code>API</code> <code>Finance</code></p>
+<a href="https://fa-currency-converter.vercel.app/">
+  <img src="https://img.shields.io/badge/LIVE_DEMO-06B6D4?style=for-the-badge&logo=vercel&logoColor=white" />
+</a>
+
+</td>
+<td width="50%">
+
 ### ⌨️ Typing Test
 <p>A fast-paced typing speed test application with real-time WPM tracking and accuracy metrics to improve your typing skills.</p>
 <p><code>React</code> <code>JavaScript</code> <code>Tailwind</code> <code>Performance</code></p>
 <a href="https://fa-typing-test.vercel.app/">
-  <img src="https://img.shields.io/badge/LIVE_DEMO-06B6D4?style=for-the-badge&logo=vercel&logoColor=white" />
+  <img src="https://img.shields.io/badge/LIVE_DEMO-10B981?style=for-the-badge&logo=vercel&logoColor=white" />
 </a>
 
 </td>
