@@ -13,7 +13,7 @@
   <a href="https://farhan-ahmad.vercel.app/">
     <img src="https://img.shields.io/badge/%F0%9F%8C%90_Portfolio-8B5CF6?style=for-the-badge&logoColor=white" />
   </a>&nbsp;
-  <a href="https://www.linkedin.com/in/farhan-ahmad945994493">
+  <a href="https://www.linkedin.com/in/farhan-ahmad-dev">
     <img src="https://img.shields.io/badge/LinkedIn-06B6D4?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>&nbsp;
   <a href="https://github.com/farhan493495">
