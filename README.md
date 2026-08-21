@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=280&section=header&text=Farhan%20Ahmad&fontSize=70&animation=fadeIn&fontAlignY=35&desc=Full-Stack%20Architect%20%7C%20+92%20326%207196875%20%7C%20portfolio.farhanahmad.dev&descAlignY=55&descSize=20" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=280&section=header&text=Farhan%20Ahmad&fontSize=70&animation=fadeIn&fontAlignY=35&desc=Full-Stack%20Architect%20%7C%20portfolio.farhanahmad.dev&descAlignY=55&descSize=20" width="100%" />
 
   <a href="https://git.io/typing-svg">
     <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&weight=600&pause=1000&color=2D7DDB&center=true&vCenter=true&width=680&lines=Full+Stack+Software+Architect;Conversion+Rate+Optimization+Specialist;Next.js+%26+React+Expert;Building+High-Yield+Digital+Solutions" alt="Typing SVG" />
@@ -42,7 +42,7 @@ Accomplished **Full-Stack Software Engineer** and **Conversion-Driven Architect*
 
 <div align="center">
 
-### 🏗️ Backend & Databases
+### Backend & Databases
 <br/>
 
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
@@ -50,7 +50,7 @@ Accomplished **Full-Stack Software Engineer** and **Conversion-Driven Architect*
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
 ![REST APIs](https://img.shields.io/badge/REST_APIs-02569B?style=for-the-badge&logo=api&logoColor=white)
 
-### ⚛️ Modern Frontend
+### Modern Frontend
 <br/>
 
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
@@ -59,7 +59,7 @@ Accomplished **Full-Stack Software Engineer** and **Conversion-Driven Architect*
 ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-0EA5E9?style=for-the-badge&logo=tailwind-css&logoColor=white)
 ![Redux](https://img.shields.io/badge/Redux-764ABC?style=for-the-badge&logo=redux&logoColor=white)
 
-### 🛠️ Developer Tools & Optimization
+### Developer Tools & Optimization
 <br/>
 
 ![Lighthouse](https://img.shields.io/badge/Lighthouse_Optimization-F44B21?style=for-the-badge&logo=lighthouse&logoColor=white)
@@ -76,29 +76,29 @@ Accomplished **Full-Stack Software Engineer** and **Conversion-Driven Architect*
 
 <br/>
 
-## 🚀 Enterprise Solutions & Portfolio Projects
+## Enterprise Solutions & Portfolio Projects
 
 <div align="center">
 
-### 📱 Enterprise Platforms & SaaS
+### Enterprise Platforms & SaaS
 
 <table>
 <tr>
 <td width="50%">
 
-### 🌐 Farhan Ahmad Portfolio
+### Farhan Ahmad Portfolio
 <p>Client acquisition & case study showcase highlighting high-yield web engineering builds.</p>
 <p><code>Next.js</code> <code>React</code> <code>Tailwind</code> <code>CRO</code></p>
-<p>📈 <strong>Impact:</strong> High Conversion Rate</p>
+<p><strong>Impact:</strong> High Conversion Rate</p>
 <a href="https://portfolio.farhanahmad.dev/"><img src="https://img.shields.io/badge/LIVE_DEMO-2D7DDB?style=for-the-badge&logo=vercel&logoColor=white" /></a>
 
 </td>
 <td width="50%">
 
-### ⚖️ Elite Legal Services
+### Elite Legal Services
 <p>High-converting client onboarding engine built for corporate consultation practices.</p>
 <p><code>React</code> <code>Tailwind</code> <code>Services</code></p>
-<p>📈 <strong>Impact:</strong> Automated Lead Capture</p>
+<p><strong>Impact:</strong> Automated Lead Capture</p>
 <a href="https://elite.farhanahmad.dev/"><img src="https://img.shields.io/badge/LIVE_DEMO-06B6D4?style=for-the-badge&logo=vercel&logoColor=white" /></a>
 
 </td>
@@ -107,19 +107,19 @@ Accomplished **Full-Stack Software Engineer** and **Conversion-Driven Architect*
 <tr>
 <td width="50%">
 
-### 🏛️ Government Services Portal
+### Government Services Portal
 <p>Enterprise-grade digital service portal engineered for high concurrency and zero latency.</p>
 <p><code>React</code> <code>Tailwind</code> <code>High Traffic</code></p>
-<p>📈 <strong>Impact:</strong> 100% Auditable Security</p>
+<p><strong>Impact:</strong> 100% Auditable Security</p>
 <a href="https://govtservices.farhanahmad.dev/"><img src="https://img.shields.io/badge/LIVE_DEMO-10B981?style=for-the-badge&logo=vercel&logoColor=white" /></a>
 
 </td>
 <td width="50%">
 
-### 🛍️ TechStore E-Commerce
+### TechStore E-Commerce
 <p>Consumer electronics store featuring sub-second cart response & high checkout conversion rates.</p>
 <p><code>React</code> <code>Tailwind</code> <code>E-Commerce</code></p>
-<p>📈 <strong>Impact:</strong> Reduced Checkout Drops</p>
+<p><strong>Impact:</strong> Reduced Checkout Drops</p>
 <a href="https://fa-commerce.farhanahmad.dev/"><img src="https://img.shields.io/badge/LIVE_DEMO-8B5CF6?style=for-the-badge&logo=vercel&logoColor=white" /></a>
 
 </td>
@@ -128,19 +128,19 @@ Accomplished **Full-Stack Software Engineer** and **Conversion-Driven Architect*
 <tr>
 <td width="50%">
 
-### 📊 Enterprise Analytics Dashboard
+### Enterprise Analytics Dashboard
 <p>Real-time SaaS administrative dashboard enabling leadership to track KPIs and revenue trends.</p>
 <p><code>React</code> <code>Recharts</code> <code>Tailwind</code> <code>SaaS</code></p>
-<p>📈 <strong>Impact:</strong> Real-Time Data Sync</p>
+<p><strong>Impact:</strong> Real-Time Data Sync</p>
 <a href="https://dashboard.farhanahmad.dev/"><img src="https://img.shields.io/badge/LIVE_DEMO-2D7DDB?style=for-the-badge&logo=vercel&logoColor=white" /></a>
 
 </td>
 <td width="50%">
 
-### 💬 Automated AI Chatbot Engine
+### Automated AI Chatbot Engine
 <p>Customer engagement system leveraging NLP APIs to qualify leads and answer support 24/7.</p>
 <p><code>React</code> <code>API</code> <code>Tailwind</code> <code>AI/ML</code></p>
-<p>📈 <strong>Impact:</strong> 24/7 Support Automation</p>
+<p><strong>Impact:</strong> 24/7 Support Automation</p>
 <a href="https://chatbot.farhanahmad.dev/"><img src="https://img.shields.io/badge/LIVE_DEMO-06B6D4?style=for-the-badge&logo=vercel&logoColor=white" /></a>
 
 </td>
